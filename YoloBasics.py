@@ -8,7 +8,7 @@ import math                      #|
 
 # for image
 #-----------------------------------#|
-# path = "./images/cars.png"          #|
+# path = "./cars.png"          #|
 # image = cv2.imread(path)            #|
 # model = YOLO('Weights/yolov8n.pt')  #|
 # image = cv2.resize(image,(700,700)) #|
@@ -27,7 +27,7 @@ import math                      #|
 
 # for video
 #------------------------------------------------
-cap = cv2.VideoCapture("./Videos/video4.mp4")  #|
+cap = cv2.VideoCapture("./video4.mp4")  #|
 #------------------------------------------------
 
 
